@@ -1,1 +1,12 @@
-ff
+git init 
+git sattus
+git add <file>
+git commit
+git commin -m
+git branch <name_branch>
+git checkout <name_branc>
+git checkou -b <name_branch>
+
+git merge
+git show commit
+git reset - potreba si to ulozit do nove větve
